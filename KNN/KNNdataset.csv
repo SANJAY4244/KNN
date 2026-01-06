@@ -1,0 +1,16 @@
+Age,Salary,Gender,Buy
+22,20000,Male,No
+25,25000,Female,No
+28,30000,Male,No
+30,35000,Female,No
+35,40000,Male,Yes
+40,45000,Female,Yes
+42,48000,Male,Yes
+45,52000,Female,Yes
+23,22000,Female,No
+27,28000,Male,No
+33,38000,Female,Yes
+38,42000,Male,Yes
+29,32000,Female,No
+41,46000,Male,Yes
+36,39000,Female,Yes
